@@ -1,6 +1,6 @@
 # Roteiro de apresentação — N3 (≈15 min)
 
-**Equipe:** Henrique · Lucas · Luis Gustavo
+**Equipe:** Henrique · Lucas · Luis Gustavo · Richard (falas detalhadas em `DIVISAO_FALAS.md`)
 
 ## Antes de começar (checklist, 10 min antes)
 
@@ -84,7 +84,7 @@ python -m demo.consultas_demo
 
 Para responder as perguntas direto no Compass, cole os pipelines de `docs\QUERIES_COMPASS.md` na aba **Aggregations**. No terminal, o equivalente é `python -m analises.consultas_mongo`.
 
-## 6. Perguntas que o pipeline destrava (2 min) · *Luis Gustavo*
+## 6. Perguntas que o pipeline destrava (3 min) · *Richard*
 
 ```powershell
 python -m analises.perguntas
@@ -101,7 +101,7 @@ Mostrar as tabelas no terminal e abrir os gráficos em `saidas\`:
 - **05** "Porque você assistiu…" — recomendação por conteúdo
 - **06** top 20 títulos para licenciar
 
-## 7. Fechamento (1 min) · *Henrique*
+## 7. Fechamento (1 min) · *Richard*
 
 > "Saímos de um CSV bruto e chegamos a dados confiáveis, particionados e consultáveis, com respostas para as seis perguntas de negócio. O pipeline é idempotente: rodar de novo atualiza os documentos por `_id` sem duplicar — pronto para execução diária em lote, como especificado na N2."
 

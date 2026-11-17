@@ -2,7 +2,7 @@
 
 Avaliação N3 · ADS UniCesusc — implementação do pipeline especificado na N2.
 
-**Equipe:** Henrique Hoepers Ferraz · Lucas de Azevedo Corso · Luis Gustavo Angelo
+**Equipe:** Henrique Hoepers Ferraz · Lucas de Azevedo Corso · Luis Gustavo Angelo · Richard
 
 ## Arquitetura
 

@@ -1,6 +1,6 @@
 # Divisão das falas (≈15 min, 4 integrantes)
 
-> O PDF da N2 tem 3 nomes. Troque **Integrante 4** pelo nome do quarto membro.
+**Equipe:** Henrique · Lucas · Luis Gustavo · Richard
 
 ---
 
@@ -64,11 +64,11 @@ Do primeiro comando, mostrar só as partes 1 e 2. O segundo é o pipeline ao viv
   - a aba **Indexes**
   - a coleção pré-agregada `resumo_genero_ano`
 
-**Passa para o Integrante 4:** "Com o dado pronto, respondemos as perguntas de negócio."
+**Passa para o Richard:** "Com o dado pronto, respondemos as perguntas de negócio."
 
 ---
 
-## 4. Integrante 4 · Perguntas de negócio e fechamento (≈4 min)
+## 4. Richard · Perguntas de negócio e fechamento (≈4 min)
 
 **Rodar:**
 ```powershell
@@ -97,4 +97,4 @@ Ou cole os pipelines de `docs\QUERIES_COMPASS.md` no Compass. Depois, abrir os g
 | Como tratam dado ruim? | Lucas |
 | E se rodar duas vezes? (idempotência) | Luis Gustavo |
 | Escala para mais dados? | Henrique: o mesmo código roda num cluster Spark trocando o `master` |
-| Como funciona a recomendação ou o ranking? | Integrante 4 |
+| Como funciona a recomendação ou o ranking? | Richard |
